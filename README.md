@@ -1,5 +1,7 @@
-Clojure MIDI
-============
+MIDI Projects
+=============
+
+Right now just a collection of resources for MIDI projects in many platforms.
 
 #### Startups
 - [Music Fly](http://musicfly.co/)
